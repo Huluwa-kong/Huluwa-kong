@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Huluwa-kong/Huluwa-kong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Profile**
+hi, I'm Brye, a full stack engineer in Shenzhen
+- 2019~Now Tecent. Full Stack Developer
+- 2018~2019 Microsoft Research Asia (MSRA) Intern
+- 2012~2019 Beihang University. Master Degree.
 
-Here are some ideas to get you started:
+**Stack**
+- Machine learning & Deep learning, mainly on NLP
+- Fontend: JavaScript,CSS,Html. React library
+- Backend: C++/Go/Python
+- BigData: Spark/Hadoop/MapReduce
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+**Recent**
+
+- 🔭 I’m currently working on business intelligence algorithms, trying to help data analyst better understand data
+- 🌱 I’m currently learning Spark and Flink
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: vx: codingtutor
 - ⚡ Fun fact: ...
--->
