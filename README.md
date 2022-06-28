@@ -22,3 +22,6 @@ hi, I'm Brye, a full stack engineer in Shenzhen
 - 💬 Ask me about ...
 - 📫 How to reach me: vx: codingtutor
 - ⚡ Fun fact: ...
+
+
+如果您有关于CS相关技能的任何帮助和需求，又或者希望聊聊有关于CS职业发展的一些困惑，可添加vx：codingtutor 或者qq：122929048，欢迎交流、吹水~
